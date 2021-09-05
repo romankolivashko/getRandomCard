@@ -1,13 +1,11 @@
-# _{Application Name}_
+# _Randon Card Value  Picker_
 
-#### _{Brief description of application}_
+#### _The function allows to pic a random card value from Pick a random value from: 2,3,4,5,6,7,8,9,10,J,Q,K,A_
 
 #### By _**Roman Kolivashko**_
 
 ## Technologies Used
 
-* _HTML_
-* _CSS_
 * _JavaScript_
 
 ## Description
